@@ -1,9 +1,9 @@
 {
-  "chat": "Chat",
-  "discover": "Discover",
-  "myModels": "My Models",
-  "developer": "Developer",
-  "runtimes": "Runtimes",
-  "settings": "Settings",
-  "download": "Downloads"
+  "chat": "Conversație",
+  "discover": "Descoperiți",
+  "myModels": "Modelele Mele",
+  "developer": "Dezvoltator",
+  "runtimes": "Mediile de Execuție",
+  "settings": "Setări",
+  "download": "Descărcări"
 }
